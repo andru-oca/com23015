@@ -31,6 +31,8 @@ Forma manual entendiendo los pasos generales.
 
     - mkvirtualenv --python=python3 venv
 
+    - el entorno se activa en la ruta de venv _> /home/andersonCodo/.virtualenvs/venv
+
 - moverte al project descargado y trabajar internamente
     - cd <nombre_de_la_carpeta>
 
